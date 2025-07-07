@@ -12,16 +12,9 @@ This is the backend server for the **DevNote** Notes Application, a self-made pr
 
 ## 🌐 Deployed API
 
-The backend is deployed on Render:  
-[https://devnote-backend-3.onrender.com](https://devnote-backend-3.onrender.com)
+the backend is designed to run locally due to **sqlite3** limitations on free cloud hosting platforms.
 
-Example API Endpoints:  
-- `GET /notes` - Fetch all notes  
-- `POST /notes` - Add a new note  
-- `PUT /notes/:id` - Update an existing note  
-- `DELETE /notes/:id` - Delete a note  
-- `POST /register` - User Registration  
-- `POST /login` - User Login  
+
 
 ## 🛠️ Tech Stack
 
