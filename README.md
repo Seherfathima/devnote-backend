@@ -12,7 +12,8 @@ This is the backend server for the **DevNote** Notes Application, a self-made pr
 
 ## 🌐 Deployed API
 
-the backend is designed to run locally due to **sqlite3** limitations on free cloud hosting platforms.
+the backend is deployed at:
+https://devnote-backend-3.onrender.com
 
 
 
